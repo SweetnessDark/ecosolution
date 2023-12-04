@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/ecosolution/static/css/main.1f353194.css",
+    "main.js": "/ecosolution/static/js/main.e0100360.js",
+    "static/media/mask-group.png": "/ecosolution/static/media/mask-group.c4855918ac55c4648a43.png",
+    "static/media/solar-panels.png": "/ecosolution/static/media/solar-panels.5b106e19dbea84339aae.png",
+    "static/media/engineer.png": "/ecosolution/static/media/engineer.f0e6f734194887f2e017.png",
+    "static/media/ceo.png": "/ecosolution/static/media/ceo.89bf65e026a504418d8d.png",
+    "static/media/tech.png": "/ecosolution/static/media/tech.aae19b40c993c772230b.png",
+    "static/media/senior.png": "/ecosolution/static/media/senior.070d888d8e2b7186b122.png",
+    "static/media/director.png": "/ecosolution/static/media/director.b356983d8009fabbf821.png",
+    "static/media/icons.svg": "/ecosolution/static/media/icons.c567682283d28679dbb920b02f8581be.svg",
+    "index.html": "/ecosolution/index.html",
+    "main.1f353194.css.map": "/ecosolution/static/css/main.1f353194.css.map",
+    "main.e0100360.js.map": "/ecosolution/static/js/main.e0100360.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f353194.css",
+    "static/js/main.e0100360.js"
+  ]
+}
